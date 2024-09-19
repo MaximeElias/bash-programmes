@@ -1,0 +1,7 @@
+#!/bin/sh
+
+a=1
+
+while [ $a -ne 0 ] ; do
+    echo "Je gaspille du temps CPU" >> /dev/null                                                                                                                                                                                                         
+done                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
